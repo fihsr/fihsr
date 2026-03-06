@@ -12,14 +12,14 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 
 ## Основные проекты / Main projects
 
-## 1. Drainer Phantom Wallet
+## 1. [Drainer Phantom Wallet](https://github.com/fihsr/Solana-Claim-Web-Drainer)
 ![Альтернативный текст](photo4.png)
 
-## 2. Outlaw VPN(WebApp)
+## 2. [Outlaw VPN(WebApp)](https://github.com/fihsr/Outlaw-VPN_webapp)
 ![Альтернативный текст](photo1.png)
 
-## 3. Telegram NFT Drainer(Bot)
+## 3. [Telegram NFT Drainer(Bot)](https://github.com/fihsr/Telegram-Nft-Fishing-Full-code)
 <img src="1.png" alt="Альтернативный текст" width="50%"><img src="2.png" alt="Альтернативный текст" width="50%">
 
-## 4. Polymarket TradeBot
+## 4. [Polymarket TradeBot](https://github.com/fihsr/PolyMarketBot)
 ![Альтернативный текст](3.png)
