@@ -3,3 +3,9 @@
 
 ## My Telegram
 [![Telegram](https://img.icons8.com/ios-filled/50/26A5E4/telegram-app.png)](https://t.me/onexxxan)
+
+## RU
+## Могу сделать разные проекты, включая сайты(визитки, WebApp и др.), Телеграм ботов(от простых к сложным) и другие скрипты.
+
+## EN
+## I can make various projects, including websites (business cards, WebApp, etc.), Telegram bots (from simple to complex) and other scripts.
