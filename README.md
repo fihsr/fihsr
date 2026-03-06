@@ -19,5 +19,4 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 ![Альтернативный текст](photo1.png)
 
 ## 3. Telegram NFT Drainer(Bot)
-![Альтернативный текст](1.png)
-![Альтернативный текст](2.png)
+![Альтернативный текст](1.png)![Альтернативный текст](2.png)
