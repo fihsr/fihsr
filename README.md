@@ -17,3 +17,7 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 
 ## 2. Outlaw VPN(WebApp)
 ![Альтернативный текст](photo1.png)
+
+## 3. Telegram NFT Drainer(Bot)
+![Альтернативный текст](1.png)
+![Альтернативный текст](2.png)
