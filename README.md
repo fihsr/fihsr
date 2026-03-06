@@ -20,3 +20,6 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 
 ## 3. Telegram NFT Drainer(Bot)
 <img src="1.png" alt="Альтернативный текст" width="50%"><img src="2.png" alt="Альтернативный текст" width="50%">
+
+## 4. Polymarket TradeBot
+![Альтернативный текст](4.png)
