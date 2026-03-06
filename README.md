@@ -16,4 +16,4 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 ![Альтернативный текст](photo4.png)
 
 ## 2. Outlaw VPN(WebApp)
-![Альтернативный текст](photo3.png)
+![Альтернативный текст](photo1.png)
