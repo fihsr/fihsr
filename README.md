@@ -13,4 +13,7 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 ## Основные проекты / Main projects
 
 ## 1. Drainer Phantom Wallet
-![Альтернативный текст](photo4)
+![Альтернативный текст](photo4.png)
+
+## 2. Outlaw VPN(WebApp)
+![Альтернативный текст](photo3.png)
