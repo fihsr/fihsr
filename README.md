@@ -1,4 +1,4 @@
 ## Xone
 ![---](gifka.gif)
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<i class="fas fa-wallet"></i> Кошелек
+
+![Wallet](https://img.icons8.com/ios-filled/50/000000/wallet.png)
