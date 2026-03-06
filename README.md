@@ -13,4 +13,4 @@ I can make various projects, including websites (business cards, WebApp, etc.), 
 ## Основные проекты / Main projects
 
 ## 1. Drainer Phantom Wallet
- 
+![Альтернативный текст](photo4)
