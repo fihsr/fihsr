@@ -1,4 +1,4 @@
 ## Xone
 ![---](gifka.gif)
 
-![Wallet](https://img.icons8.com/ios-filled/50/000000/wallet.png)
+[![Telegram](https://img.icons8.com/ios-filled/50/1A6DFF/C822FF/telegram.png)](https://t.me/onexxxan)
