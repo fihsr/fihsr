@@ -9,3 +9,9 @@
 
 ## EN
 I can make various projects, including websites (business cards, WebApp, etc.), Telegram bots (from simple to complex) and other scripts.
+
+## Основные проекты / Main projects
+
+## 1.
+Drainer Phantom Wallet
+
